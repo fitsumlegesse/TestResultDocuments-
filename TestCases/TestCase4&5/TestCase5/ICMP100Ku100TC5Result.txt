@@ -1,3 +1,0 @@
-Attacker HPING3 command hping3 -i -c100000 -i u100 192.168.100.6 
-100k pkt transmitted, 99959 pkt recived, 1% data loss
-Min TTL: 6, Max TTL: 200008  
