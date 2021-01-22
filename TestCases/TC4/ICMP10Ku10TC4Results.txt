@@ -1,0 +1,3 @@
+Command From Kali Linux -1 -c 10000 -i u10 192.168.100.6
+10k pkt transmitted,7554 pkt rec, 25% data loss
+Min TTL: 4, Max TTL: 19945
